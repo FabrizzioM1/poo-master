@@ -10,6 +10,6 @@ public class MainDemoConstructor {
         System.out.println(obj2.atributo1);
 
 
-        DemoConstructores_01 obj3=new DemoConstructores_01(20, "Valor");
+        DemoConstructores_01 obj3=new DemoConstructores_01("20", "Valor");
     }
 }

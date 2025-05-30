@@ -14,7 +14,7 @@ public class BoletaDeCalificaciones {
 
     String obtenerDatos(){
         String cad="";
-        cad=cad+"Alumno{nombre:"+nombre+"; ";
+        cad=cad+"serializacion.Alumno{nombre:"+nombre+"; ";
         cad=cad+"Fund. Programación:"+calif_fundProg+"; ";
         cad=cad+"Ética:"+calif_etica+"; ";
         cad=cad+"Mate. Discretas:"+calif_mateDisc+"; ";
